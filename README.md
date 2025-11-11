@@ -16,7 +16,7 @@ Mampu memahami dasar pemrograman PHP (variabel, tipe data, kondisi, dan perulang
 
 Membuat program PHP sederhana dengan input dan output dinamis.
 
-![Gambar](Lab7web.png)
+![Gambar](Lab7web.jpg)
 
 # 💡 Langkah-Langkah Praktikum
 ## 1. Menjalankan Web Server
