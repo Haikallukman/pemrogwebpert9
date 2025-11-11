@@ -1,7 +1,8 @@
 # 🧩 Praktikum 7 – PHP Dasar
 
-## Haikal Lukman Nur Hakim
-## 312410142
+## Haikal Lukman Nur Hakim (312410142)
+## Muhammad Hafyainul yakin (312410164)
+
 
 
 ## Mata Kuliah: Pemrograman Web
